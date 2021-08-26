@@ -23,6 +23,10 @@ html, body {
   height: 100%;
 }
 
+.br-on-jp {
+  display: none;
+}
+
 body {
   font-family: "Roboto", "Helvetica", "Arial", sans-serif;
 }
@@ -290,6 +294,9 @@ iframe {
 }
 .section09 .section09-01 .section09-01-01 .card .card-title {
   font-size: 1em;
+}
+.section09 .section09-01 .section09-01-01 .card .card-title ruby {
+  ruby-align: center;
 }
 .section09 .section09-01 .section09-01-01 .card.success {
   border: 3px solid #ffff33;
@@ -624,6 +631,10 @@ footer .container ul li {
   }
 }
 @media only screen and (max-width: 576px) {
+  .br-on-jp {
+    display: block;
+  }
+
   .section02 .container h2 {
     font-size: 1.5em;
   }

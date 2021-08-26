@@ -384,6 +384,9 @@ background: linear-gradient(337deg, rgba(234,237,236,1) 0%, rgba(255,255,255,1) 
                     font-size:1em;
                     // color:red;
                     // counter-increment: headings;
+                    ruby {
+                        ruby-align: center;
+                    }
                 }
                 // .card-title::before {
                 //     content:counter(headings);
