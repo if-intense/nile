@@ -1,3 +1,8 @@
+@charset "UTF-8";
+body {
+  font-family: "MS Pゴシック", sans-serif;
+}
+
 .btn-success {
   background: #02827B !important;
 }
@@ -673,6 +678,14 @@ footer .container ul li {
   }
 }
 @media only screen and (max-width: 430px) {
+  .section02 .container .text h2.lh-base {
+    font-size: 1.25em;
+  }
+
+  .section03 .container h6.lh-lg {
+    font-size: 1.1em;
+  }
+
   .section06 .container .section06-text a.btn {
     width: 100%;
   }
