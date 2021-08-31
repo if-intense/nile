@@ -5,9 +5,7 @@ $nile-white: rgb(255,255,255);
 $nile-green: rgb(2,130,123);
 $nile-yellow: rgb(249,190,60);
 
-body {
-    font-family: 'Noto Serif JP', serif;;
-}
+
 
 .btn-success {
     background: #02827B !important;
@@ -42,10 +40,10 @@ html, body {
 .br-on-jp {
     display: none;
 }
-// 日本語文字のズレ解消
+
 
 body {
-    font-family: "Roboto", "Helvetica", "Arial", sans-serif; 
+    font-family: "Helvetica Neue", "Lucida Grande", Helvetica, Arial, Helvetica, sans-serif;
 }
 
 .plus {
@@ -108,7 +106,7 @@ iframe {
 }
 
 .section02 {
-    font-family: 'Noto Serif JP', serif;;
+    // font-family: 'Noto Serif JP', serif;;
     background: rgb(250,60,29);
 background: linear-gradient(337deg, rgba(234,237,236,1) 0%, rgba(255,255,255,1) 100%);
     text-align: center;
@@ -133,7 +131,7 @@ background: linear-gradient(337deg, rgba(234,237,236,1) 0%, rgba(255,255,255,1) 
     background-position: center;
     background-size: cover;
     padding:8vh 0;
-    font-family: 'Noto Serif JP', serif;;
+    // font-family: 'Noto Serif JP', serif;;
     
 
     h6 {
@@ -157,7 +155,7 @@ background: linear-gradient(337deg, rgba(234,237,236,1) 0%, rgba(255,255,255,1) 
     background-position: center;
     background-size: cover;
     padding: 10vh 0 15vh;
-    font-family: 'Noto Serif JP', serif;;
+    // font-family: 'Noto Serif JP', serif;;
     .container {
         padding: 2vh 0;
         .section04-contents {
@@ -183,7 +181,7 @@ background: linear-gradient(337deg, rgba(234,237,236,1) 0%, rgba(255,255,255,1) 
     clip-path: polygon(50% 3vh, 100% 0, 100% 100%, 0 100%, 0 0);
     margin-top: -10vh;
     padding: 10vh 0;
-    font-family: 'Noto Serif JP', serif;;
+    // font-family: 'Noto Serif JP', serif;;
     .container {
         .section05-contents {
             // background:white;
@@ -219,7 +217,7 @@ background: linear-gradient(337deg, rgba(234,237,236,1) 0%, rgba(255,255,255,1) 
     background: rgb(255,255,255);
     background: linear-gradient(135deg, rgba(255,255,255,1) 0%, rgba(52,102,144,0.5) 100%);
     padding:10vh 0 20vh;
-    font-family: 'Noto Serif JP', serif;;
+    // font-family: 'Noto Serif JP', serif;;
     .section06-text {
         width:80%;
         margin:0 auto;
@@ -277,7 +275,7 @@ background: linear-gradient(337deg, rgba(234,237,236,1) 0%, rgba(255,255,255,1) 
     margin-top:-10vh;
     padding:10vh 0 20vh;
     z-index: 3;
-    font-family: 'Noto Serif JP', serif;;
+    // font-family: 'Noto Serif JP', serif;;
     .section07-area1 {
         background: $nile-white; 
        .inner-wrapper {
@@ -335,7 +333,7 @@ background: linear-gradient(337deg, rgba(234,237,236,1) 0%, rgba(255,255,255,1) 
     clip-path: polygon(50% 3vh, 100% 0, 100% 100%, 0 100%, 0 0);
     // clip-path: ellipse(100% 55% at 50% 40%);
     margin-top:-10vh;
-    font-family: 'Noto Serif JP', serif;;
+    // font-family: 'Noto Serif JP', serif;;
     .container {
         .section08-01 {
             width: 75%;
@@ -450,7 +448,7 @@ background: linear-gradient(337deg, rgba(234,237,236,1) 0%, rgba(255,255,255,1) 
 } 
 
 .section11 {
-    font-family: 'Noto Serif JP', serif;;
+    // font-family: 'Noto Serif JP', serif;;
     .section11-01 {
         .rounded-lg {
         border-radius: 1rem !important;
@@ -610,7 +608,7 @@ background: linear-gradient(337deg, rgba(234,237,236,1) 0%, rgba(255,255,255,1) 
 
 .section12 {
     background: #fc9d8d;
-    font-family: 'Noto Serif JP', serif;;
+    // font-family: 'Noto Serif JP', serif;;
     color:$nile-white;
     .section12-01 {
         ul {
@@ -626,7 +624,7 @@ background: linear-gradient(337deg, rgba(234,237,236,1) 0%, rgba(255,255,255,1) 
 
 .section13 {
     background: #B1C3D3;
-    font-family: 'Noto Serif JP', serif;;
+    // font-family: 'Noto Serif JP', serif;;
     .container {
         h2 {
             text-transform: uppercase;

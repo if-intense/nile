@@ -1,7 +1,3 @@
-body {
-  font-family: "Noto Serif JP", serif;
-}
-
 .btn-success {
   background: #02827B !important;
 }
@@ -32,7 +28,7 @@ html, body {
 }
 
 body {
-  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-family: "Helvetica Neue", "Lucida Grande", Helvetica, Arial, Helvetica, sans-serif;
 }
 
 .plus {
@@ -84,7 +80,6 @@ iframe {
 }
 
 .section02 {
-  font-family: "Noto Serif JP", serif;
   background: #fa3c1d;
   background: linear-gradient(337deg, #eaedec 0%, white 100%);
   text-align: center;
@@ -102,7 +97,6 @@ iframe {
   background-position: center;
   background-size: cover;
   padding: 8vh 0;
-  font-family: "Noto Serif JP", serif;
 }
 .section03 h6 {
   text-align: center;
@@ -123,7 +117,6 @@ iframe {
   background-position: center;
   background-size: cover;
   padding: 10vh 0 15vh;
-  font-family: "Noto Serif JP", serif;
 }
 .section04 .container {
   padding: 2vh 0;
@@ -146,7 +139,6 @@ iframe {
   clip-path: polygon(50% 3vh, 100% 0, 100% 100%, 0 100%, 0 0);
   margin-top: -10vh;
   padding: 10vh 0;
-  font-family: "Noto Serif JP", serif;
 }
 .section05 .container .section05-contents {
   padding: 4vh 2vw 0;
@@ -169,7 +161,6 @@ iframe {
   background: white;
   background: linear-gradient(135deg, white 0%, rgba(52, 102, 144, 0.5) 100%);
   padding: 10vh 0 20vh;
-  font-family: "Noto Serif JP", serif;
 }
 .section06 .section06-text {
   width: 80%;
@@ -209,7 +200,6 @@ iframe {
   margin-top: -10vh;
   padding: 10vh 0 20vh;
   z-index: 3;
-  font-family: "Noto Serif JP", serif;
 }
 .section07 .section07-area1 {
   background: white;
@@ -256,7 +246,6 @@ iframe {
   background-position: center;
   clip-path: polygon(50% 3vh, 100% 0, 100% 100%, 0 100%, 0 0);
   margin-top: -10vh;
-  font-family: "Noto Serif JP", serif;
 }
 .section08 .container .section08-01 {
   width: 75%;
@@ -351,9 +340,6 @@ iframe {
   font-weight: bold;
 }
 
-.section11 {
-  font-family: "Noto Serif JP", serif;
-}
 .section11 .section11-01 .rounded-lg {
   border-radius: 1rem !important;
 }
@@ -489,7 +475,6 @@ iframe {
 
 .section12 {
   background: #fc9d8d;
-  font-family: "Noto Serif JP", serif;
   color: white;
 }
 .section12 .section12-01 ul {
@@ -503,7 +488,6 @@ iframe {
 
 .section13 {
   background: #B1C3D3;
-  font-family: "Noto Serif JP", serif;
 }
 .section13 .container h2 {
   text-transform: uppercase;
